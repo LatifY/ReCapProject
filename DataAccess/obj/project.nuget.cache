@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sF/RoCIie+K4kUZdb8nLJ9YoeBjjaNvSLf8FkIbBFPnHZHHMUNfac2nWX1ASxhXM3Kr5S3EFNTsWz99IY6hrEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alati\\Desktop\\Dev\\C#Dev\\ReCapProject\\ReCapProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
